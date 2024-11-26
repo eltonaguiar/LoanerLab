@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view">
+    <sys_ui_view action="DELETE">
+        <group/>
+        <hidden>false</hidden>
+        <name>garbage_view_delete_me</name>
+        <roles/>
+        <sys_class_name>sys_ui_view</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 00:18:05</sys_created_on>
+        <sys_id>1f5d369ea1c212107f442ea983c58538</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>garbage view delete me</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">3ed2e25ea14212107f442ea983c5858c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3ed2e25ea14212107f442ea983c5858c</sys_scope>
+        <sys_update_name>sys_ui_view_1f5d369ea1c212107f442ea983c58538</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 00:18:05</sys_updated_on>
+        <title>garbage view delete me</title>
+        <user/>
+    </sys_ui_view>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Loaner Request">3ed2e25ea14212107f442ea983c5858c</application>
+        <file_path/>
+        <instance_id>b761db2d47865a90ad588549116d43d5</instance_id>
+        <instance_name>nowlearning-nlinst02252977-0001</instance_name>
+        <name>sys_ui_view_1f5d369ea1c212107f442ea983c58538</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_view"><sys_ui_view action="INSERT_OR_UPDATE"><group/><hidden>false</hidden><name>garbage_view_delete_me</name><roles/><sys_class_name>sys_ui_view</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-11-26 00:18:05</sys_created_on><sys_id>1f5d369ea1c212107f442ea983c58538</sys_id><sys_mod_count>0</sys_mod_count><sys_name>garbage view delete me</sys_name><sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">3ed2e25ea14212107f442ea983c5858c</sys_package><sys_policy/><sys_scope display_value="Loaner Request">3ed2e25ea14212107f442ea983c5858c</sys_scope><sys_update_name>sys_ui_view_1f5d369ea1c212107f442ea983c58538</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-11-26 00:18:05</sys_updated_on><title>garbage view delete me</title><user/></sys_ui_view></record_update>]]></payload>
+        <payload_hash>-662753045</payload_hash>
+        <record_name>garbage view delete me</record_name>
+        <reverted_from/>
+        <source>a94ba696a18212107f442ea983c585ba</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 00:18:06</sys_created_on>
+        <sys_id>1b5d369ea1c212107f442ea983c5853b</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19365d51e380000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 00:18:06</sys_updated_on>
+        <type>UI View</type>
+        <update_guid>5f5d369e3ec21210c7568f0d0413f03a</update_guid>
+        <update_guid_history>5f5d369e3ec21210c7568f0d0413f03a:-662753045</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-11-26 00:21:26</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_view">sys_ui_view</sys_db_object>
+        <sys_id>25e96fd2c4774fca8e7b4a62f83e9f99</sys_id>
+        <sys_metadata>1f5d369ea1c212107f442ea983c58538</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>garbage view delete me</sys_name>
+        <sys_package display_value="Loaner Request" source="x_cdltd_loaner_req">3ed2e25ea14212107f442ea983c5858c</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Loaner Request">3ed2e25ea14212107f442ea983c5858c</sys_scope>
+        <sys_scope_delete display_value="">7ef24fa6b5e444988468922d94e0ff64</sys_scope_delete>
+        <sys_update_name>sys_ui_view_1f5d369ea1c212107f442ea983c58538</sys_update_name>
+        <sys_update_version display_value="sys_ui_view_1f5d369ea1c212107f442ea983c58538">1b5d369ea1c212107f442ea983c5853b</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-11-26 00:21:26</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
